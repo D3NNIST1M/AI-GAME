@@ -2,7 +2,7 @@
 Using machine learning(reinforcement learning) to play games:)
 
 ## Emulator
-* OpenEmu: an emulator for mac written in C
+* OpenEmu: an emulator for mac written in C\n
 github repo: https://github.com/OpenEmu/OpenEmu
 
 ## Game
